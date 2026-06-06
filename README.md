@@ -99,5 +99,5 @@ photography, and delivery — with modular payload attachment beneath the frame.
 
 **Mirza Uzair Mehmood Baig**
 Mechatronics Engineering, NUST CEME '26
-[LinkedIn](https://linkedin.com/in/YOUR-USERNAME) · [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/mirza-uzair-mehmood-baig-913b25383/) · [GitHub](https://github.com/Uzair458)
 
