@@ -8,8 +8,8 @@ dimensioned 2D technical drawings, and 3D rendered models for all 5 parts.
 
 ## Final Assembly
 
-![Final Assembly](images/assembly_render.png)
-![Wireframe View](images/assembly_wireframe.png)
+![Final Assembly](assembly_render.png)
+![Wireframe View](assembly_wireframe.png)
 
 ---
 
@@ -36,36 +36,27 @@ AutoCAD solid modelling commands, and finally assembled into a complete drone mo
 ## Part Drawings
 
 ### 1. Mainframe
-![Mainframe](images/mainframe.png)
+![Mainframe](mainframe.png)
 The body was split into three sub-parts (upper curved section, lower body, middle section),
 modelled separately and aligned using the Move command.
 
 ### 2. Propeller
-![Propeller](images/propeller.png)
+![Propeller](propeller.png)
 Blade shape created using Arc and Fillet commands, extruded to thickness.
 Middle joint made from rectangles and circles.
 
 ### 3. Propeller Mount
-![Propeller Mount](images/propeller_mount.png)
+![Propeller Mount](propeller_mount.png)
 Most complex part — required combining Loft, Subtract, Fillet, Extrude, and Intersect
 commands. Circular and rectangular sections built separately then joined.
 
 ### 4. Propeller Arm
-![Propeller Arm](images/propeller_arm.png)
+![Propeller Arm](propeller_arm.png)
 Extruded from 2D rectangular profiles, shaped with Subtract and Loft commands.
 
 ### 5. Arm Mount
-![Arm Mount](images/arm_mount.png)
+![Arm Mount](arm_mount.png)
 Connects propeller arm to mainframe. Built from simple rectangular extrusions.
-
----
-
-## Files in this Repository
-
-| File | Description |
-|------|-------------|
-| `quadcopter_drone.dwg` | Full AutoCAD source file (all parts + assembly) |
-| `images/` | Exported renders and technical drawings |
 
 ---
 
