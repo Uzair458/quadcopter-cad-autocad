@@ -110,4 +110,3 @@ photography, and delivery — with modular payload attachment beneath the frame.
 Mechatronics Engineering, NUST CEME '26
 [LinkedIn](https://linkedin.com/in/YOUR-USERNAME) · [GitHub](https://github.com/YOUR-USERNAME)
 
-> *Project completed as part of Engineering Drawing (ME-109) — NUST CEME*
