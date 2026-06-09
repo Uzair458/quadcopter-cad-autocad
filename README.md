@@ -1,5 +1,4 @@
 # Quadcopter Drone — AutoCAD 2D & 3D Model
-
 A fully modelled quadcopter drone designed in AutoCAD, covering every component from
 individual part drawings to complete final assembly. Includes 1st angle projections,
 dimensioned 2D technical drawings, and 3D rendered models for all 5 parts.
@@ -7,14 +6,12 @@ dimensioned 2D technical drawings, and 3D rendered models for all 5 parts.
 ---
 
 ## Final Assembly
-
 ![Final Assembly](assembly_render.png)
 ![Wireframe View](assembly_wireframe.png)
 
 ---
 
 ## Project Overview
-
 This project focuses on the complete 2D and 3D modelling of a quadcopter UAV in AutoCAD.
 Each part was first drafted in 2D with full dimensions, then modelled in 3D using
 AutoCAD solid modelling commands, and finally assembled into a complete drone model.
@@ -22,7 +19,6 @@ AutoCAD solid modelling commands, and finally assembled into a complete drone mo
 ---
 
 ## Parts Modelled
-
 | # | Part | AutoCAD Commands Used |
 |---|------|-----------------------|
 | 1 | Mainframe | Loft, Extrude, Presspull, Move, Subtract, Slice |
@@ -61,26 +57,22 @@ Connects propeller arm to mainframe. Built from simple rectangular extrusions.
 ---
 
 ## How to Open
-
 1. Open AutoCAD (2020 or later recommended)
 2. File → Open → select `quadcopter_drone.dwg`
 3. Use the Layer Manager to toggle between individual parts and full assembly view
 
 ## Working Principle
-
 A quadcopter generates lift using four propellers. Each propeller pushes air downward,
 producing an equal and opposite upward thrust. Height and direction are controlled by
 varying the speed of individual propellers — no mechanical steering required.
 
 ## Applications
-
 Quadcopters are used across rescue operations, agriculture (crop spraying), surveillance,
 photography, and delivery — with modular payload attachment beneath the frame.
 
 ---
 
 ## What I Learned
-
 - Translating physical mechanical systems into precise 2D engineering drawings
 - Building complex 3D geometry using solid modelling commands (Loft, Subtract, Intersect)
 - Managing multi-part assemblies with proper component alignment in AutoCAD
@@ -89,15 +81,20 @@ photography, and delivery — with modular payload attachment beneath the frame.
 ---
 
 ## Tools Used
-
 - AutoCAD (2D drafting + 3D solid modelling)
 - 1st Angle Projection standard
+- 
+## Team
+Built as part of **Engineering Drawing (ME-109)** at **NUST CEME**, DE-47 Mechatronics — Syndicate A.
+
+| Name | Contributions | GitHub |
+|------|--------------|--------|
+| Asma Sarwar | Propeller Blade modelling, 2D drafting, Mainframe modelling, 2D projections, Report writing| — |
+| Muhammad Hasan Saeed | Propeller Arm & Arm Mount modelling, Final assembly | — |
+| Mirza Uzair Mehmood Baig | Propeller Mount modelling, Assembly, Project coordination | [@Uzair458](https://github.com/Uzair458) |
 
 ---
 
-## Author
-
-**Mirza Uzair Mehmood Baig**
-Mechatronics Engineering, NUST CEME '26
-[LinkedIn](https://www.linkedin.com/in/mirza-uzair-mehmood-baig-913b25383/) · [GitHub](https://github.com/Uzair458)
-
+## License
+This project is for educational and portfolio purposes.
+© 2025 NUST CEME — DE-47 Mechatronics
