@@ -83,7 +83,6 @@ photography, and delivery — with modular payload attachment beneath the frame.
 ## Tools Used
 - AutoCAD (2D drafting + 3D solid modelling)
 - 1st Angle Projection standard
-- 
 ## Team
 Built as part of **Engineering Drawing (ME-109)** at **NUST CEME**, DE-47 Mechatronics — Syndicate A.
 
